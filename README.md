@@ -1,1 +1,1 @@
-This is test project with hero admin panel!
+This is the test project to hone my skills of using Redux technology 
